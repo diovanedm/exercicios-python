@@ -1,0 +1,20 @@
+1. Ler do teclado um número inteiro com três dígitos (no formato CDU - centena, dezena e
+unidade) e mostrar o número invertido (no formato UDC). O número invertido deve ser
+armazenado em outra variável antes de ser mostrado
+2. Faça um programa que leia um número inteiro (entre 65 e 90) e mostre na tela o caractere
+correspondente a ele na tabela ASCII
+3. Faça um programa que leia um caractere (entre A e Z) e mostre na tela o número inteiro
+correspondente ao caractere na tabela ASCII
+4. Ler dois números inteiros e salva-los nas variáveis A e B. Em seguida, troque dos valores das
+duas variáveis de forma que a variável A passe a ter o valor da variável B e vice-versa. No final,
+mostre os valores finais
+5. Ler dois valores reais, determinar e escrever o menor e o maior
+6. Ler dois caracteres e escreve-los em ordem alfabética
+7. Ler duas palavras e escreve-las em ordem alfabética
+8. Ler a idade de uma pessoa e dizer a faixa etária de acordo com as seguintes restrições:
+•
+Jovem (até 19 anos), Adulto (entre 20 e 59), Idoso (mais de 60 anos)
+9. Ler um número inteiro. Se ele for par calcular e escrever o seu quadrado e se for ímpar calcular
+e escrever seu cubo
+10. Fazer um programa com um método capaz de lidar com dados com valores em cadeias de
+caracteres (String). Separar os símbolos alfanuméricos (letras e algarismos) em cada cadeia.

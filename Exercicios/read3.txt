@@ -1,0 +1,28 @@
+11. Ler um nome de pessoa. Verificar se é igual ou não ao seu nome, escrevendo mensagem
+adequada
+12. Fazer um programa para ler ‘n’ números inteiros e imprimir a soma deles. O valor de ‘n‘ valor
+deve ser lido do teclado
+13. Faça um programa que leia um caractere e se esse for uma letra maiúscula, imprima
+“Maiúscula”.
+14. Senão, se ele for uma letra minúscula, imprima “Minúscula”. Senão, se for um dígito, imprima
+dígito. Senão imprima “Outro caractere”
+15. Faça um programa que ordena uma lista de números inteiros de forma crescente
+16. Faça o mesmo exercício anterior, porém de ordem decrescente17. Fazer uma função double um_sobre_impar(n) que recebe um número inteiro ‘n’ e retorna o n-
+ésimo termo da sequência 1/3, 1/5, 1/7, 1/9, 1/11 ...
+18. Escreva um programa em C para contar a quantidade de palavras de um arquivo texto
+19. Faça um programa que ordena uma lista de nomes de pessoas em ordem alfabética
+Exemplo:
+Lista original: [Diana, Beatriz, Anna, Carlos]
+Lista ordenada: [Anna, Beatriz, Carlos, Diana]
+20. Escreva um programa em C que abra um arquivo texto e que conte a quantidade de caracteres
+armazenados nele. Imprima o número na tela. O programa deve solicitar ao usuário que digite
+o nome do arquivo
+21. Escreva um programa em C que solicite ao usuário a digitação do nome de um arquivo texto já
+existente, e que então gere um outro arquivo, que será uma cópia do primeiro
+22. Considere um arquivo texto que armazene números em ponto flutuante em cada uma de suas
+linhas
+23. Escreva um programa em C que determine o valor máximo, o valor mínimo e a média
+desses valores armazenados no arquivo. Imprima esses valores na tela
+24. Fazer um programa para contar as letras minúsculas de uma cadeia de caracteres
+25. Fazer um programa para ler os nomes de várias pessoas e salvar em um arquivo .txt
+26. Fazer um programa que lê um arquivo .txt e diz quantos nomes começam com a letra ‘A’
